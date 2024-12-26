@@ -78,7 +78,7 @@ header {
 
 .search-bar-container {
     text-align: center;
-    margin-top: 20px; /* Adjust spacing above the section */
+    margin-top: 20px; 
   }
   
   .search-section {
@@ -119,8 +119,8 @@ header {
   .favorite-cuisine-text {
     font-size: 28px;
     font-weight: 500;
-    color: #333333; /* Dark gray for emphasis */
-    margin-top: 8px; /* Small space between lines */
+    color: #333333; 
+    margin-top: 8px; 
   }
 
 .cuisine-options {
@@ -396,16 +396,16 @@ header {
 }
 
 .featured-recipes h2 {
-  font-size: 2.5rem; /* Adjusts the size of the text */
-  color: #333; /* Text color */
-  margin: 0; /* Removes any default margins */
+  font-size: 2.5rem;
+  color: #333;
+  margin: 0; 
 }
 
 .recipe-cards {
   display: flex;
   flex-wrap: wrap;
-  gap: 25px; /* Adjusts the spacing between cards */
-  justify-content: center; /* Centers the cards in the container */
+  gap: 35px; 
+  justify-content: center; 
 }
 
 .recipe-card {
@@ -439,14 +439,14 @@ header {
   display: inline-block;
   margin-top: 10px;
   padding: 5px 12px;
-  background-color: #ff7e5f;
+  background-color: #419D78;
   color: white;
   text-decoration: none;
   border-radius: 5px;
 }
 
 .recipe-card a:hover {
-  background-color: #e6674c;
+  background-color: #419D78;
 }
        
 
